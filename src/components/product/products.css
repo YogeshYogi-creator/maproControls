@@ -1,0 +1,10 @@
+.headingDiv{
+    background-color: #323232;
+    height: 200px;
+    text-align: center;
+}
+.h2Heading{
+    color: #FF8C00;
+    position:relative;
+    top:45px;
+}

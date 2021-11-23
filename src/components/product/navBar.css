@@ -1,0 +1,13 @@
+*{ margin: 0; padding: 0; box-sizing: border-box}
+
+.navLine{
+    border-style: solid;
+    border-left: 0px;
+    border-top: 0px;
+    border-bottom: 0px
+}
+
+.line{
+  height: 5px;
+  background-color: darkslategray;
+}
